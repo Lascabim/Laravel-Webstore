@@ -1,8 +1,10 @@
 # Laravel Website
 
-## Motives
+## Project Itself
 
-This project was made as an example of a what the framework Laravel can do, its a Shop where you can buy a product, filter id, and its fully responsive. Whenever someone want clicks on buy, it redirects to the store whatsapp number. Have fun and i hope you can learn something! 
+This project is a Online Store example using framework Laravel, testing my coding skills. 
+It´s fully responsive and has API´s such as whatsapp direct message to contact directly the owner of the shop.
+I hope you can learn something from this, and motivate you to do something yourself! 
 
 ## How to run the project
 
